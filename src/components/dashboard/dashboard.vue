@@ -90,6 +90,7 @@ export default {
     transition:all 0.8s;
     background rgba(32, 32, 35, 0.5)
 .dashboard
+    overflow hidden
     position relative
     width 100%
     height 100%
